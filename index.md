@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
-Contributors: Sohum Mehrotra, Janelle Cueto, Brandon Goodman Gibis
+## Contributors: Sohum Mehrotra, Janelle Cueto, Brandon Goodman Gibis
+
 You can use the [editor on GitHub](https://github.com/nuknuk48/cs418project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
