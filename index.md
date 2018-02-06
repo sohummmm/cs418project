@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome to Team SMJCBGG's Web Page!
 
 ## Contributors: Sohum Mehrotra, Janelle Cueto, Brandon Goodman Gibis
-
-## Team Name: SMJCBGG
