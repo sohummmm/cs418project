@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
+
 ## Contributors: Sohum Mehrotra, Janelle Cueto, Brandon Goodman Gibis
+
+
 
 You can use the [editor on GitHub](https://github.com/nuknuk48/cs418project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
