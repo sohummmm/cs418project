@@ -2,6 +2,8 @@
 
 ## Contributors: Sohum Mehrotra, Janelle Cueto, Brandon Goodman Gibis
 
+## Team Name: IDK
+
 
 
 You can use the [editor on GitHub](https://github.com/nuknuk48/cs418project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
