@@ -2,7 +2,7 @@
 
 ## Contributors: Sohum Mehrotra, Janelle Cueto, Brandon Goodman Gibis
 
-## Team Name: IDK
+## Team Name: SMJCBGG
 
 
 
