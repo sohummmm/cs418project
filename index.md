@@ -22,6 +22,3 @@ I love video games and I eat too much chicken dinner.
 My weaknesses? I care too much and try too hard.
 -Michael Scott
   -Brandon Gibis
-  
-  twitch.tv/Gibmeister4
-
