@@ -13,7 +13,9 @@ I love music, so basically if you have any music to share please do not hesitate
 I'm a pretty positive person, so basically I'm always up to hear a good joke.
 Oh yeah, and I like okie dokie popcorn, so let's have an okie dokie kinda party.
 ## Janelle Cueto:
-5' 110lb of pure spice
+your local 5' 21 yr old bundle of trash 
+I'm a CS major graduating May 2018. I like trying new foods and exploring new places. I aspire to have a pug when I get older. 
+follow my on insta: @janelli.bean
 ## Brandon Goodman Gibis:
 5’10 180lb retired UIC baseball player. Undergrad CS Major in my 5th year, graduating in May. 22 years old. 
 I love video games and I eat too much chicken dinner.
