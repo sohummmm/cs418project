@@ -1,6 +1,9 @@
 ## Welcome to Team SMJCBGG's Web Page!
 
-## Contributors: Sohum Mehrotra, Janelle Cueto, Brandon Goodman Gibis
+## Contributors: Sohum Mehrotra, Janelle Cueto, Brandon Goodman Gibi
+
+## Project Description:
+
 
 
 ## Biographies:
