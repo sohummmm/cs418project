@@ -3,6 +3,7 @@
 ## Contributors: Sohum Mehrotra, Janelle Cueto, Brandon Goodman Gibi
 
 ## Project Description:
+Project Description will go here for when we have a project to describe
 
 
 ## Sohum Mehrotra:
