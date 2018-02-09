@@ -13,5 +13,7 @@ CS Major and Minoring in Industrial Engineering and Business Analytics. 20. Curr
 ## Janelle Cueto:
 
 ## Brandon Goodman Gibis:
-
+5’10
+180lb
+Retired UIC baseball player
 
