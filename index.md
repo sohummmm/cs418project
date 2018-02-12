@@ -5,7 +5,7 @@
 ## Project Description:
 Project Description will go here for when we have a project to describe
 
-## [](https://www.google.com/ Weekly Status Reports)
+## [Weekly Status Reports](https://www.google.com/)
 
 ## Sohum Mehrotra:
 6' 150lb so I'm tall and heavy enough to reach the ground. CS Major and Minoring in Industrial Engineering and Business Analytics. 20. 
