@@ -1,9 +1,9 @@
 # cs418project
 Project Repo for CS 418
 
-Collaborators: Sohum Mehrotra, Janelle Cueto, Brandon Goodman Gibis
+Collaborators: Sohum Mehrotra, Janelle Cueto, Brandon Goodman Gibis, Glenn Mascarenhas
 
-Team Name: SMJCBGG
+Team Name: SMJCBGGGM
 
 Course: CS 418
 
