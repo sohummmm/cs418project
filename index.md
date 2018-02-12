@@ -1,6 +1,6 @@
-## Welcome to Team SMJCBGG's Web Page!
+## Welcome to Team SMJCBGGGM's Web Page!
 
-## Contributors: Sohum Mehrotra, Janelle Cueto, Brandon Goodman Gibi
+## Contributors: Sohum Mehrotra, Janelle Cueto, Brandon Goodman Gibis, Glenn Mascarenhas
 
 ## Project Description:
 Project Description will go here for when we have a project to describe
@@ -22,3 +22,5 @@ I love video games and I eat too much chicken dinner.
 My weaknesses? I care too much and try too hard.
 -Michael Scott
   -Brandon Gibis
+  
+## Glenn Mascarenhas
