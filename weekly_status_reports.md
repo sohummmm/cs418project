@@ -1,4 +1,4 @@
-## Weekly Status Reports
+# Weekly Status Reports
 
 ## Week One:
 Sohum Mehrotra:
