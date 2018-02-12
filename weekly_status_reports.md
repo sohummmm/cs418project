@@ -11,6 +11,8 @@ This week I updated my bio for our team page. I also did some research around fl
 
 Brandon Goodman Gibis:
 
+This week I updated my bio for our team page. I researched Health reports in the city of Chicago, specifically Morbidity and Clinical Care of the population from the Chicago Health Atlas. Next week I plan on finding 1-2 more sources, 1 on Health reports and 1 on another category. One issue I noticed was that the data on the Health reports from the website I used was very brief. I hope to find a more extensive source to use for our project
+
 Glenn Mascarenhas:
 
 
