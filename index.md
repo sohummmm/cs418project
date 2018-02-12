@@ -3,7 +3,7 @@
 #### Contributors: Sohum Mehrotra, Janelle Cueto, Brandon Goodman Gibis, Glenn Mascarenhas
 
 ### Project Description:
-Project Description will go here for when we have a project to describe
+This is our term project for CS418, Intro to Data Science. Throughout this project, we will be exploring data from Chicago, studying it and refining it, and then integrating our discoveries into visualization. 
 
 ### [Weekly Status Reports](https://nuknuk48.github.io/cs418project/weekly_status_reports)
 
