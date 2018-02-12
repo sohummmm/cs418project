@@ -12,3 +12,6 @@ This week I updated my bio for our team page. I also did some research around fl
 Brandon Goodman Gibis:
 
 Glenn Mascarenhas:
+
+
+## Week Two:
