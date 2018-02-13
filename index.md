@@ -28,6 +28,9 @@ My weaknesses? I care too much and try too hard.
 Grad student from Mumbai, majoring in Computer Science @UIC. My interests: Aviation, Computer Science (obviously), History and Politics. I'm fascinated by almost anything that's related to science because of which I had a tough time figuring out what I should put my foot in. I'm okay with girl-friends but definitely not girlfriends (get the clue). Chicago is my kinda city; love the cold and snow.
 
 Likes: Music, Dogs (I don't understand cats, kittens are cute though), Goan food.
+
 Dislikes: Smell of cigarettes, Tea, Popcorn.  
+
 Fun-fact: I can become a Portuguese citizen if I wish too. 
+
 If you've reached this line, Congratulations! It proves that you read bios. I usually don't. 
