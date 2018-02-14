@@ -19,3 +19,11 @@ For the 1st week I added my bio to the our project webpage and I looked for data
 
 
 ## Week Two:
+Sohum Mehrotra:
+
+Janelle Cueto:
+
+Brandon Goodman Gibis:
+
+Glenn Mascarenhas: 
+
