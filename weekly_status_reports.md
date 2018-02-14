@@ -25,5 +25,7 @@ Janelle Cueto:
 
 Brandon Goodman Gibis:
 
+For week two I was able to find three websites for data discovery. The Chicago Health Atlas provided information on morbitity, hospitalizations and access to health care in Chicago. The Statistic Atlas provided tables and graphs of income, demographics, and race and ethnicity of the city's population. The World Population Review had tables on the yearly population, growth and growth rate. Next week I plan to start scraping the data. At the moment there does not appear to be anything blocking me from doing my work.
+
 Glenn Mascarenhas: 
 
