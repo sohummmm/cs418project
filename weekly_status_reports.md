@@ -20,7 +20,7 @@ For the 1st week I added my bio to the our project webpage and I looked for data
 
 ## Week Two:
 Sohum Mehrotra:
-
+This week I found two valuable sources for the data discovery portion of this project.  The real estate database company Zillow has provided data on home values, listings, as well as rental values and listings and real estate forecasting.  Zillow provides hundredes of excel files consisting of zip codes, neighborhoods, pricings etc.  This kind of data can be referenced against datasets containing locations in chicago as well as demographics to see what kind of real estate different demographics own. The second source I found was the City of Chicago Data Portal. This repository has thousands of data sets that cover a variety of categories such as Buildings, Transportation, Finances, Public Safety, Sanitation, and many other topics.  This site provides a visualization tool to view the tables as well as the geographical distribution of data that pertain to their respective location in Chicago.  For the next week, I plan to discuss with my team what topics we should focus our research on and consolidate all of our findings to help set a course for the semester, so that we can start data scraping and analysis.
 Janelle Cueto:
 
 Brandon Goodman Gibis:
