@@ -22,11 +22,14 @@ For the 1st week I added my bio to the our project webpage and I looked for data
 Sohum Mehrotra:
 
 This week I found two valuable sources for the data discovery portion of this project.  The real estate database company Zillow has provided data on home values, listings, as well as rental values and listings and real estate forecasting.  Zillow provides hundredes of excel files consisting of zip codes, neighborhoods, pricings etc.  This kind of data can be referenced against datasets containing locations in chicago as well as demographics to see what kind of real estate different demographics own. The second source I found was the City of Chicago Data Portal. This repository has thousands of data sets that cover a variety of categories such as Buildings, Transportation, Finances, Public Safety, Sanitation, and many other topics.  This site provides a visualization tool to view the tables as well as the geographical distribution of data that pertain to their respective location in Chicago.  For the next week, I plan to discuss with my team what topics we should focus our research on and consolidate all of our findings to help set a course for the semester, so that we can start data scraping and analysis.
-Janelle Cueto:
 
 Brandon Goodman Gibis:
 
 For week two I was able to find three websites for data discovery. The Chicago Health Atlas provided information on morbitity, hospitalizations and access to health care in Chicago. The Statistic Atlas provided tables and graphs of income, demographics, and race and ethnicity of the city's population. The World Population Review had tables on the yearly population, growth and growth rate. Next week I plan to start scraping the data. At the moment there does not appear to be anything blocking me from doing my work.
+
+Janelle Cueto:
+
+This week I found three sources: skyscanner, OpenTable, and CPS.edu. I explored each site to find what kind of information they provided, and tried to relate each source to Chicago and its people in general. I thought about how this data would fit into a data set that could be joined with the attributes in the Data Extraction section. For example, looking at OpenTable and searching for restaurants in Chicago made me realize that I could relate cuisine type, price points and ratings to the demographic of that location. For the upcoming week, I plan to start thinking about how I want to begin extracting data off of census.gov and Chicago's data portal. As for scraping data from Yelp, I wonder what exactly we are trying to find about restaurants in Chicago. Again, one of the blocks I see for our team in general is a lack of actual communication. We've been doing much of our work chatting online but I'd like to be able to meet all together to work on our stuff. 
 
 Glenn Mascarenhas: 
 
