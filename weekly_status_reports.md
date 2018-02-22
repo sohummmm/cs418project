@@ -34,3 +34,9 @@ This week I found three sources: skyscanner, OpenTable, and CPS.edu. I explored 
 Glenn Mascarenhas: 
 
 In week 2 I worked on searching for datasets that were related to the city of Chicago. The three datasets that I found were: 1) Air traffic data at O'Hare and Midway from the Chicago Department of Aviation's website flychicago.com 2) Weather data for the Chicago area from weather.gov and 3) Data on the history of theatre in Chicago on chicagotheatrehistoryproject.org. I read through each of these datasets in order to understand them, their attributes and to also identify how they could be joined with datasets mentioned in the data extraction section. For each of the datasets I researched, I found that they are present in different formats eg. flychicago's dataset was a bunch of pdfs while the theatre history dataset was a directory of html pages.  I also made the final compiled report for this week's data discovery deliverable. Before I start next week's data extraction work, I plan to do some study on web scraping as I'm not much familiar with it and we need it for scraping data from Yelp. 
+
+## Week Three:
+
+Brandon Goodman Gibis:
+
+This week I began to research the following categories for our data extraction, Business Licenses, Food Inspections, Crime, Census, Demographics, and weather from the City of Chicago’s data portal and census.gov. Once I figured out how this data was stored, my intitial idea was to use BeautifulSoup in order to pull the data from the site. Next week I plan to actual pull the data from the website and store it for later use. At the moment the only thing stopping me from reaching my goal is whether or not the use of BeautifulSoup will work for this project.
