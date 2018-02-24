@@ -49,3 +49,7 @@ In week 2, I started to investigate the specific sources I found in the data ext
 Glenn Mascarenhas:
 
 Our team was assigned zip code: 60642 this week for extracting restaurant data from Yelp. The first thing that I did was to find the location of this zip code on Google Maps. I then headed to Yelp and searched for restaurants by this zip code. It's very true that although you enter a zip code, Yelp doesn't sort the results as per the code you've entered so after some 'find'ing and filtering I finally got a count of all the restaurants and it was approximately 59 which is much lower than the required 100. Morevoer, the number of reviews for quite a few were much below 20 therefore we might need to expand our search to a wider area. Besides this, I downloaded the Business Licenses and Food Inspection datasets for the zip codes 60601 to 60607 from data.cityofchicago.org. This was an easy task as it required just a little filtering and searching to do. The files downloaded are in .csv format for Excel.
+
+Janelle Cueto:
+
+This week I mainly focused on preparing for part 3, data extraction. I did some research on how to scrape data from websites that don't contain visible tables like Wikipedia such as Twitter or Instagram. I looked into libraries other than BeautifulSoup to start deciding how I want to scrape data off of Yelp. For this upcoming week, I want to start putting this preparation into practice, and we, as a group, need to begin on our report
