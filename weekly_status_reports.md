@@ -53,3 +53,9 @@ Our team was assigned zip code: 60642 this week for extracting restaurant data f
 Janelle Cueto:
 
 This week I mainly focused on preparing for part 3, data extraction. I did some research on how to scrape data from websites that don't contain visible tables like Wikipedia such as Twitter or Instagram. I looked into libraries other than BeautifulSoup to start deciding how I want to scrape data off of Yelp. For this upcoming week, I want to start putting this preparation into practice, and we, as a group, need to begin on our report
+
+## Week Four:
+
+Brandon Goodman Gibis:
+
+During week four I began the data extraction on yelp by testing that I could pull one review with the AuthorID and ReviewID. I was able to successfully do that so I also worked on the overview of our technical approach and design. We met as a group to discuss our plans. Next week I plan to complete the 100 yelp reviews and begin on the data integration and analytics. 
