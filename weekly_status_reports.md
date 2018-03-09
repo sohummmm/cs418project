@@ -77,3 +77,7 @@ This week I mainly focussed on the report for the overview of the technical appr
 Sohum Mehrotra:
 
 This week I heavily focused on yelp data extraction.  I worked on multiple files in order to harnass the power of the Yelp Fusion API and extract business data as well as review data.  I led the effort to establish a proper approach to extracting the Yelp data and guide the group towards success.  I webscraped the yelp business and author pages by creating a python file called author.py that accepts a CSV file full of Yelp User IDs and extracts the authorID, name, location, reviewCount, friendCount, and photoCount.  These attributes are all output to another csv file called author.csv.  
+
+Brandon Goodman Gibis:
+
+Much like Sohum, I also focused on the yelp data extraction. As a group we got together and learned how to use the Yelp Fusion API to extract data from Yelp. We were able to extract most of the data in regards to Reviews and Restaurant. We did run into issues figuring out how to extract data that was not available on the Yelp API. Next week I plan on working on the next deliverable which is the manual reference data sets.
