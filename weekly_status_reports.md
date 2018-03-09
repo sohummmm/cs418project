@@ -71,3 +71,9 @@ For this week, I researched more on how to scrape data off of a website like Yel
 Glenn Mascarenhas:
 
 This week I mainly focussed on the report for the overview of the technical approach that we would probably follow for the project. I thought about ways in which we can solve each of the queries in the Data Integration and Analytics section. I finally formatted the report, taking the inputs from other team members and prepared it for final submission. 
+
+## Week Five:
+
+Sohum Mehrotra:
+
+This week I heavily focused on yelp data extraction.  I worked on multiple files in order to harnass the power of the Yelp Fusion API and extract business data as well as review data.  I led the effort to establish a proper approach to extracting the Yelp data and guide the group towards success.  I webscraped the yelp business and author pages by creating a python file called author.py that accepts a CSV file full of Yelp User IDs and extracts the authorID, name, location, reviewCount, friendCount, and photoCount.  These attributes are all output to another csv file called author.csv.  
