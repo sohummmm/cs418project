@@ -76,7 +76,7 @@ This week I mainly focussed on the report for the overview of the technical appr
 
 Sohum Mehrotra:
 
-This week I heavily focused on yelp data extraction.  I worked on multiple files in order to harnass the power of the Yelp Fusion API and extract business data as well as review data.  I led the effort to establish a proper approach to extracting the Yelp data and guide the group towards success.  I webscraped the yelp business and author pages by creating a python file called author.py that accepts a CSV file full of Yelp User IDs and extracts the authorID, name, location, reviewCount, friendCount, and photoCount.  These attributes are all output to another csv file called author.csv.  
+This week I heavily focused on yelp data extraction.  I worked on multiple files in order to harnass the power of the Yelp Fusion API and extract business data as well as review data.  I led the effort to establish a proper approach to extracting the Yelp data and guide the group towards success.  I webscraped the yelp business and author pages by creating a python file called author.py that accepts a CSV file full of Yelp User IDs and extracts the authorID, name, location, reviewCount, friendCount, and photoCount.  These attributes are all output to another csv file called author.csv.  I intend to start working on the weather data within our zip code and determine the probability for robbery in the Summer of 2018.
 
 Brandon Goodman Gibis:
 
