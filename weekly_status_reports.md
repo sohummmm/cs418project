@@ -84,6 +84,6 @@ Much like Sohum, I also focused on the yelp data extraction. As a group we got t
 
 ## Week Six:
 
-Brandon Goodman Gibis
+Brandon Goodman Gibis:
 
 This week I began to work on our next deliverable, Manual Reference Dataset. I did not get very far due to other projects and exams. I do not see anything holding me back from getting this completed next week. Next week I plan on meeting as a team to complete this asssignment.
