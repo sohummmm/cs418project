@@ -81,3 +81,8 @@ This week I heavily focused on yelp data extraction.  I worked on multiple files
 Brandon Goodman Gibis:
 
 Much like Sohum, I also focused on the yelp data extraction. As a group we got together and learned how to use the Yelp Fusion API to extract data from Yelp. We were able to extract most of the data in regards to Reviews and Restaurant. We did run into issues figuring out how to extract data that was not available on the Yelp API. Next week I plan on working on the next deliverable which is the manual reference data sets.
+
+## Week Six:
+
+Brandon Goodman Gibis:
+This week I began to work on our next deliverable, Manual Reference Dataset. I did not get very far due to other projects and exams. I do not see anything holding me back from getting this completed next week. Next week I plan on meeting as a team to complete this asssignment.
