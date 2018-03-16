@@ -96,3 +96,6 @@ Janelle Cueto:
 
 For this week, I looked into the rest of phase 3 for the project. I did some minor research into web scraping weather history since our team has 4 members, however I did not focus too much on our project for this week due to projects and exams for other classes. For the upcoming week, I hope to meet with team members again to work on our next deliverable. We need to finish up our phase 3 of the project as well as begin working on our queries for phase 4. 
 
+Sohum Mehrotra:
+
+This week, I started web scraping the weather data resource pages and consolodating the available weather data from various sources.  I accomponied this research with minor coding to parse generic csv files and take any column of data from a csv and compute its numerical average.  This will be useful for when I find the actual data to run these codes on.  For the next week, I plan to continue my work to finish this generic code so I can start analyzing the data and answering the queries.
