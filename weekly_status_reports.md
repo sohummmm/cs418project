@@ -82,8 +82,17 @@ Brandon Goodman Gibis:
 
 Much like Sohum, I also focused on the yelp data extraction. As a group we got together and learned how to use the Yelp Fusion API to extract data from Yelp. We were able to extract most of the data in regards to Reviews and Restaurant. We did run into issues figuring out how to extract data that was not available on the Yelp API. Next week I plan on working on the next deliverable which is the manual reference data sets.
 
+Janelle Cueto:
+
+This week, I worked on our Yelp extracts. I called the Yelp Fusion API to extract restaurant data as well as review text. Because the API only allows for 3 reviews per restaurant, I had to web scrape to get all 20 reviews required for our review.csv. Unfortunately my team members and I could not properly integrate all 20 reviews with their user IDs and other information. As for using the API to grab restaurant info, I was able to obtain information on each restaurant's ID, name, address, etc. My other teammembers were able to webscrape for the other data. I tried to help with the author.csv as well to obtain review author IDs in a csv file to grab all of the author information. 
+
 ## Week Six:
 
 Brandon Goodman Gibis:
 
 This week I began to work on our next deliverable, Manual Reference Dataset. I did not get very far due to other projects and exams. I do not see anything holding me back from getting this completed next week. Next week I plan on meeting as a team to complete this asssignment.
+
+Janelle Cueto:
+
+For this week, I looked into the rest of phase 3 for the project. I did some minor research into web scraping weather history since our team has 4 members, however I did not focus too much on our project for this week due to projects and exams for other classes. For the upcoming week, I hope to meet with team members again to work on our next deliverable. We need to finish up our phase 3 of the project as well as begin working on our queries for phase 4. 
+
