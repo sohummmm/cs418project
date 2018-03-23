@@ -103,3 +103,8 @@ This week, I started web scraping the weather data resource pages and consolodat
 ## Week Seven
 
 This week, I plan to comoplete my portion of the web scraping and will work to consolidate the group efforts and submit the correct queries and double check the work of the other members. For the next week I plan tpoo complete the next homework assignment and work on establishing the visualization aspect of our project.
+
+Janelle Cueto:
+
+I looked at our deliverable for next week and began my research for phase 4 of the project. I specifically looked at crime data and began looking at the API provided by data.cityofchicago.org for finding the crimes located near the restaurants we are using for this upcoming deliverable. I downloaded the yelp data from BlackBoard for parsing out all provided businesses that start with the letter A for our team. For the upcoming week I plan to refine the crime data set in order to complete next week's deliverable and then apply it to the manual reference sets. I also need to look back at weather history data for phase 4. Because it is spring break, one of the blocks I see for this upcoming week is coordinating the team to work on the project. Since we do not have class, we are most likely not going to meet in person this week. 
+
