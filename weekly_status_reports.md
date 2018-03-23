@@ -99,3 +99,7 @@ For this week, I looked into the rest of phase 3 for the project. I did some min
 Sohum Mehrotra:
 
 This week, I started web scraping the weather data resource pages and consolodating the available weather data from various sources.  I accomponied this research with minor coding to parse generic csv files and take any column of data from a csv and compute its numerical average.  This will be useful for when I find the actual data to run these codes on.  For the next week, I plan to continue my work to finish this generic code so I can start analyzing the data and answering the queries.
+
+## Week Seven
+
+This week, I plan to comoplete my portion of the web scraping and will work to consolidate the group efforts and submit the correct queries and double check the work of the other members. For the next week I plan tpoo complete the next homework assignment and work on establishing the visualization aspect of our project.
