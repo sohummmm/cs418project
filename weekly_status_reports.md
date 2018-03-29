@@ -108,3 +108,7 @@ Janelle Cueto:
 
 I looked at our deliverable for next week and began my research for phase 4 of the project. I specifically looked at crime data and began looking at the API provided by data.cityofchicago.org for finding the crimes located near the restaurants we are using for this upcoming deliverable. I downloaded the yelp data from BlackBoard for parsing out all provided businesses that start with the letter A for our team. For the upcoming week I plan to refine the crime data set in order to complete next week's deliverable and then apply it to the manual reference sets. I also need to look back at weather history data for phase 4. Because it is spring break, one of the blocks I see for this upcoming week is coordinating the team to work on the project. Since we do not have class, we are most likely not going to meet in person this week. 
 
+Brandon Goodman Gibis:
+
+This week I did the Yelp and Business License sources. I used the 40 restaurant file Glenn sent me in order to clean up the Yelp information and then used the data.cityofchicago.org to get all of the Business License information. I plan on also starting HW #2 this week and finishing that next week.
+
