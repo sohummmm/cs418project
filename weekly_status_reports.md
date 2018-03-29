@@ -101,8 +101,9 @@ Sohum Mehrotra:
 This week, I started web scraping the weather data resource pages and consolodating the available weather data from various sources.  I accomponied this research with minor coding to parse generic csv files and take any column of data from a csv and compute its numerical average.  This will be useful for when I find the actual data to run these codes on.  For the next week, I plan to continue my work to finish this generic code so I can start analyzing the data and answering the queries.
 
 ## Week Seven
+Sohum Mehrotra:
 
-This week, I plan to comoplete my portion of the web scraping and will work to consolidate the group efforts and submit the correct queries and double check the work of the other members. For the next week I plan tpoo complete the next homework assignment and work on establishing the visualization aspect of our project.
+This week, I plan to comoplete my portion of the web scraping and will work to consolidate the group efforts and submit the correct queries and double check the work of the other members. For the next week I plan to complete the next homework assignment and work on establishing the visualization aspect of our project.
 
 Janelle Cueto:
 
@@ -111,4 +112,10 @@ I looked at our deliverable for next week and began my research for phase 4 of t
 Brandon Goodman Gibis:
 
 This week I did the Yelp and Business License sources. I used the 40 restaurant file Glenn sent me in order to clean up the Yelp information and then used the data.cityofchicago.org to get all of the Business License information. I plan on also starting HW #2 this week and finishing that next week.
+
+## Week Eight
+
+Sohum Mehrotra:
+
+This week, I completed my portion of the manual reference data set.  I completed three queries and and the food inspections to the manual reference data set for the 40 restaurants we tackled.  I plan to complete HW #2 as well as work on refining our data sets and methodologies to querying and normalizing our data.
 
