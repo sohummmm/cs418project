@@ -10,8 +10,8 @@ def mergeData(restaurantsData, foodInspectionData,mergedSet):
     for row1 in restaurantsData:
         for row2 in foodInspectionData:
             row1Name,row1Address = row1.split(",")
-            row2InspectionID,row2Address,row2dbaName,row2Risk,row2Results,row2InspectionDate = row2.split(",")
-            if((row1Name == row2dbaName) & (row1Address == row2Address)):
+            row2InspectionID,row2Address,row2dbaName,row2Risk,row2Results,row2InspectionDate,row2akaName = row2.split(",")
+            if(((row1Name == row2dbaName) | (row1Name == row2akaName)) & (row1Address == row2Address)):
                 foodInspection = 'Food Inspections'
                 mergedSet.append(str(groupNum) + "," + foodInspection + "," + row2InspectionID + "," + row2Address + "," + row2dbaName + "," + row2dbaName + "," + row2Risk + "," + row2Results + "," + row2InspectionDate)
                 counter  = counter + 1
@@ -44,7 +44,8 @@ def parseFoodInspectionCSV(csvFile, data):
                 risk = row[5]
                 results = row[12]
                 inspectionDate = row[10]
-                data.append(inspectionID + "," + address + "," + dbaName + "," + risk + "," + results + "," + inspectionDate)
+                akaName = row[2].replace(",","").upper()
+                data.append(inspectionID + "," + address + "," + dbaName + "," + risk + "," + results + "," + inspectionDate + "," + akaName)
             counter = counter+1
     return data
 
