@@ -35,6 +35,10 @@ https://www.cityofchicago.org/content/dam/city/depts/doit/general/GIS/Chicago_Ma
 https://www.cityofchicago.org/content/dam/city/depts/doit/general/GIS/Chicago_Maps/Census_Maps/Age_65Plus.pdf
 - The above data is in a color coded map format and is based on the 2000 census because I couldn't find one for 2010. I had to manually prepare a datasheet from it. The community column is the neighborhood. The age group is divided into three parts: 0-19, 20-64, 65+. The population for each age group was calculated by taking averages and is an approximate.
 
+Contributor: Brandon Goodman Gibis
+
+- I changed a few addresses that were not labeled correctly to the appropriate address. 
+- 2 of the restaurants did not have any business licenses.
 
 
 
