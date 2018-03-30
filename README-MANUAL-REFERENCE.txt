@@ -11,7 +11,7 @@ Some of these restaurants were closed down and no longer have accurate addresses
 the Food_Inspections.csv, so there are some missing food inspection entries for certain 
 group IDs.  
 
-Contriburot: Janelle Cueto
+Contributor: Janelle Cueto
 
 Crime Data for Manual Reference Data Set
 
