@@ -37,6 +37,8 @@ https://www.cityofchicago.org/content/dam/city/depts/doit/general/GIS/Chicago_Ma
 
 Contributor: Brandon Goodman Gibis
 
+Yelp & Business Licenses
+
 - I changed a few addresses that were not labeled correctly to the appropriate address. 
 - 2 of the restaurants did not have any business licenses.
 
