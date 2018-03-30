@@ -22,7 +22,7 @@ decided to keep the crime data limited to the same block as the business because
 from 2001 to present would mean having to write thousands of crime data to our reference data set.
 As advised on Piazza, I limited crime data to 100 crimes per restaurant. 
 
-Contributor:
+Contributor: Glenn Mascarenhas
 
 Census, Demographics and Weather for Manual Data Reference Set
 
