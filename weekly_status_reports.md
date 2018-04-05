@@ -122,3 +122,7 @@ This week, I completed my portion of the manual reference data set.  I completed
 Janelle Cueto:
 
 This week, I took care of the crime data for the restaurants in our manual reference data set. In handling crime data, I looked at the queries for phase 4 and chose the fields of the crime data provided by data.cityofchicago.org accordingly. Though one of the queries requires us to find the number of crimes within 3 blocks of a business, for the reference dataset I only included up to 100 crimes within that block ranging from 2001-2018, as the API returns most recent crimes first. Since each of the team members worked on data subsets from different sources, I merged all of the data together by GroupID. For the upcoming week I plan to finish HW2 as well as complete a couple of the queries related to crime data in phase 4.
+
+Brandon Goodman Gibis:
+
+This week I mainly worked on completing HW2. However I also started working on a few of the queries for our fully functional app. I plan on completing HW2 before I work further on our app. I believe the app will require a good amount of research so that may hinder my ability to complete much of it this week.
