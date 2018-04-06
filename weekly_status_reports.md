@@ -113,7 +113,7 @@ Brandon Goodman Gibis:
 
 This week I did the Yelp and Business License sources. I used the 40 restaurant file Glenn sent me in order to clean up the Yelp information and then used the data.cityofchicago.org to get all of the Business License information. I plan on also starting HW #2 this week and finishing that next week.
 
-## Week Eight
+## Week Eight - Spring Break
 
 Sohum Mehrotra:
 
@@ -126,3 +126,9 @@ This week, I took care of the crime data for the restaurants in our manual refer
 Brandon Goodman Gibis:
 
 This week I mainly worked on completing HW2. However I also started working on a few of the queries for our fully functional app. I plan on completing HW2 before I work further on our app. I believe the app will require a good amount of research so that may hinder my ability to complete much of it this week.
+
+## Week Nine
+
+Sohum Mehrotra
+
+This week I mainly focused on completion of homework one and getting reacclimated with SQL and structuring databases.  On the side as well I worked on querying SQL using a C# program.  Having the data within C# may prove potentially useful when it comes to visualizing the data using .NET.  I have completed a few of the queries already from the Data Anlytics portion, but I plan to complete a few more and assist other members with queries they are working on.
