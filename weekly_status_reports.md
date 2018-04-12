@@ -142,3 +142,7 @@ This week I began to work on the analysis portion of the project. I realized tha
 Brandon Goodman Gibis
 
 I was able to update our manual reference data set and I began working on the few queries I was assigned. I finished one so far and have one or two more to go. I will finish that by the end of this week and don't see anything that should stop me from completing that. 
+
+Sohum Mehrotra
+
+I worked through queries 3,8,9 and established appropriate frameworks for solving these queries from our manual reference data set.  Assisted with some adjustments to our original data set to include columns necessary for solving other queries.  I will have these queries fully completed by the end of the weekend. I have found several useful APIs to plot data within Python to assist me with query 3.  I solved query 8, but for the two general data sets provided by the Chicago data portal.  I merged these two data sets and created an output csv of the results.  I can compare the restaurants in our manual reference data set to the output file and complete this query.  Or I can solve this query solely using the manual reference data set information.
