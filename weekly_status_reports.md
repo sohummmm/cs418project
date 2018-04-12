@@ -132,3 +132,13 @@ This week I mainly worked on completing HW2. However I also started working on a
 Sohum Mehrotra
 
 This week I mainly focused on completion of homework one and getting reacclimated with SQL and structuring databases.  On the side as well I worked on querying SQL using a C# program.  Having the data within C# may prove potentially useful when it comes to visualizing the data using .NET.  I have completed a few of the queries already from the Data Anlytics portion, but I plan to complete a few more and assist other members with queries they are working on.
+
+Brandon Goodman Gibis
+
+This week I began to work on the analysis portion of the project. I realized that we missed some of the necessary columns such as reviews/ratings from the yelp data. So I will be going back and adding that to our manual reference data set before I start working on the queries. Yay...
+
+## Week Ten
+
+Brandon Goodman Gibis
+
+I was able to update our manual reference data set and I began working on the few queries I was assigned. I finished one so far and have one or two more to go. I will finish that by the end of this week and don't see anything that should stop me from completing that. 
