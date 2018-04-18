@@ -61,6 +61,12 @@ For example: a census block with 10 crimes and a population spread of 30 50 20 w
 3 5 2 crimes are committed respectively by each age group.
 
 
+query4.py | Brandon
+    To run:
+    python query4.py
+    * requires sortedManualRefSet.csv
+    
+    
 query8.py | Sohum
 Files Required:
 query_8.py
@@ -77,3 +83,9 @@ to properly run the program.
 This program runs under the assumption that certain attributes of food inspections
 are in a designated and specific column from which the program will parse in order to 
 mine the data.
+
+
+query10.py | Brandon
+    To run:
+    python query10.py
+    * requires sortedManualRefSet.csv
