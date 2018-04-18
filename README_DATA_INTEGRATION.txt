@@ -14,6 +14,7 @@ query1.py | Janelle
         * this file reads from a csv called sortedManualRefSet.csv which is the team's reference
           allignment set
 
+
 query2.py | Janelle
     This file uses data solely from sortedManualRefSet.csv. The data read in from our reference
     allignment data is converted to a pandas data frame in order to easily organize and break
@@ -26,3 +27,53 @@ query2.py | Janelle
         * creates csv file: lrcsv.csv 
         * reads from sortedManualRefSet.csv
         
+        
+query3.py | Sohum
+ Files Required:
+query_3.py
+sortedManualRefSet.csv
+
+INSTRUCTIONS
+------------
+
+You must have a file in the same directory called sortedManualRefSet.csv.
+Either the phyiscal file in the directory should be changed to this name
+or the line of code in main that defines the file name should be adjusted accordingly
+to properly run the program. 
+
+This program operates under the assumption that the data from the manual reference data set
+is of the following format:
+-Crime Data: DateTime, CrimeType
+-Census Data: Census Block
+-Demographics Data: Approximated populations for three age groups within a census block.
+		    0-19,20-64,>=65
+
+I am lacking exact numbers and ages for who committed these crimes from the provided 
+demographics data, so some assumptions had to be made in order to make computations.
+
+Assumption One: Crimes of all different types committed within a census block are 
+committed at the same frequency with each age group.  
+Assumption Two: Because of the first assumption we must now use the approximated population data
+and compute the number of crimes committed by each age group proportionally as different
+numbers of people can exist in a given census block for each of the age ranges. So, this
+assumption helps to give us a more realistic estimate of who commits crimes.  
+For example: a census block with 10 crimes and a population spread of 30 50 20 would mean that 
+3 5 2 crimes are committed respectively by each age group.
+
+
+query8.py | Sohum
+Files Required:
+query_8.py
+sortedManualRefSet.csv
+
+INSTRUCTIONS
+------------
+
+You must have a file in the same directory called sortedManualRefSet.csv.
+Either the phyiscal file in the directory should be changed to this name
+or the line of code in main that defines the file name should be adjusted accordingly
+to properly run the program. 
+
+This program runs under the assumption that certain attributes of food inspections
+are in a designated and specific column from which the program will parse in order to 
+mine the data.
