@@ -147,8 +147,16 @@ Sohum Mehrotra
 
 I worked through queries 3,8,9 and established appropriate frameworks for solving these queries from our manual reference data set.  Assisted with some adjustments to our original data set to include columns necessary for solving other queries.  I will have these queries fully completed by the end of the weekend. I have found several useful APIs to plot data within Python to assist me with query 3.  I solved query 8, but for the two general data sets provided by the Chicago data portal.  I merged these two data sets and created an output csv of the results.  I can compare the restaurants in our manual reference data set to the output file and complete this query.  Or I can solve this query solely using the manual reference data set information.
 
+Janelle Cueto
+
+I began working on queries 1 and 2. Because query 2 requires some understanding of machine learning, I had to do some research on the techniques that the query asks for. I found a python library, sklearn, which includes methods for each of the three techniques: Logistic Regression, Decision Trees, and Random Forests.
+
 ## Week Eleven
 
 Brandon Goodman Gibis
 
 I worked on query 4 and query 10 for our application. I had to do a lot of manipulation of lists after pulling the data from of Manual Reference Data Set. For the remainder of the week an continuing into next week I will be looking into putting together our website, video and slides for our in class presentation.
+
+Janelle Cueto
+
+I worked on queries 1 and 2. 
