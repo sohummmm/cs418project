@@ -161,4 +161,8 @@ Janelle Cueto
 
 I worked on queries 1 and 2. For query 1, because our reference set only contained a limit of 100 crimes per restaurant, I had to call the crime API provided by data.cityofchicago.org instead of using the crimes provided in our reference allignment set. I did use the addresses given in our allignment set and in order to grab all crimes within 3 blocks of a business address, I took the address field per group id for a row which came from the Crimes data source and manipulated that block address to get 3 blocks in the two directions of the given street. I was unable to implement the other two directions because I worked with blocks instead of longitude and latitude. Because I was calling the API, I gathered all crimes from the blocks I obtained and later organized them using a pandas dataframe and sorting by year, business, and crime type. For query 2, I used the given crimes in our manual reference set as a model. I was able to use Logistic Regression to predict the probabilities of a crime type in a given address. Next week I plan to work primarily on our data visualization and cleaning up our queries in order to get the visualizations to work how we want it to. 
 
+Sohum Mehrotra
+
+I worked on queries 3,8,9.
+
 
