@@ -6,6 +6,7 @@
 This is our term project for CS418, Intro to Data Science. Throughout this project, we will be exploring data from Chicago, studying it and refining it, and then integrating our discoveries into visualization. 
 
 ### [Weekly Status Reports](https://nuknuk48.github.io/cs418project/weekly_status_reports)
+### [QUERIES](https://nuknuk48.github.io/cs418project/queries)
 
 ### Sohum Mehrotra:
 6' 150lb so I'm tall and heavy enough to reach the ground. CS Major and Minoring in Industrial Engineering and Business Analytics. 20. 
