@@ -163,6 +163,10 @@ I worked on queries 1 and 2. For query 1, because our reference set only contain
 
 Sohum Mehrotra
 
-I worked on queries 3,8,9.
+I worked on queries 3,8,9.  For query 3,  I spent time joining all the data from Census, Demographics and Crimes from the manual reference data set within python to compute the number of crimes committed on a census block by each age group for each crime type.  The difficulty I ran into was that our manual reference data set had approximate population values for the number of people within each age group within a certain census block, but no age-related information within the crime data.  So, my solution was to assume that crimes were committed at an equal rate across the age groups to help determine how many of the crimes within a certain census block were committed by people of a certain age group.  For query 8, I found all the failed inspections noted dates for businesses then I compared the dates for the failed businesses' shut-down date.  Comparing these two dates gave me the age in years.  For query 9, to determine whether a business had a liquor license or not I added a column in the manual reference data set that gave the application status of a business.  If the business had C_EXPA as this status, then they had a liquor license.  A few other criteria were selected for wheteher or not a business had a liquor license.  After finding all the census blocks and the number of businesses within the census blocks I found the number of crimes and arrests for that specific census block.
 
+## Week Twelve
 
+Sohum Mehrotra
+
+I worked on visualizing queries 3,8,9. I spent time writing console applications in python that accepted user input to filter the graph based on the input.  I also created the web navigation logic to integrate the query pages with the main Team webpage.
