@@ -170,3 +170,8 @@ I worked on queries 3,8,9.  For query 3,  I spent time joining all the data from
 Sohum Mehrotra
 
 I worked on visualizing queries 3,8,9. I spent time writing console applications in python that accepted user input to filter the graph based on the input.  I also created the web navigation logic to integrate the query pages with the main Team webpage.
+
+Janelle Cueto
+
+I attempted visualizing queries 1 and 2. For query 1, I was able to build an interactive graph that took input to reorganize data and change the visualization. I was able to show the interactable graph locally, however, in order to host my visualization online, I should have used JScallbacks instead of handlers to take care of changing the graph. I also worked on trying to finish query 2 from the previous week in order to create the visualization for it, but in the end, I couldn't figure out how to train supervised learning models against our crime data. We as a group worked on our PowerPoint presentation and recorded ourselves explaining our visualizations. I edited together our final video and uploaded it onto our website. 
+
